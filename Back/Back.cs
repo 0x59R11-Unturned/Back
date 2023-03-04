@@ -10,20 +10,6 @@ using System.Collections.Generic;
 using UnityEngine;
 
 
-/*  
-Контакты:
-- https://vk.com/aud1t3k_community ( вк группа )
-- https://vk.com/vi2games_unt ( Vi2 Games плагины для Unturned )
-- https://discord.com/invite/E7k8Q7A ( дискорд группа )
-- https://t.me/aud1t3k_community ( телеграм канал )
-- https://www.youtube.com/channel/UCxANX_x9L1pHtfVU49d6NCA?sub_confirmation=1 ( ютуб канал )
-
-Поддержка:
-- https://qiwi.me/aud1t3k ( написать сообщение в лс )
-- https://www.donationalerts.com/r/aud1t3k ( логосовое сообщение на стриме )   
-*/
-
-
 namespace Back
 {
     // Главный класс команды
